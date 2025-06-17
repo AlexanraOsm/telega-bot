@@ -1,0 +1,5 @@
+[build]
+command = "pip install -r requirements.txt"
+
+[start]
+command = "python calendar_bot.py"
